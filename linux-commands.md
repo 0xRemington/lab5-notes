@@ -5,3 +5,4 @@ cd [.. , / , [FILEPATH] - Navigation
 chmod - changes file and directory permissions
 touch - make an empty file
 mv - move a file
+Good stuff! - Team note
